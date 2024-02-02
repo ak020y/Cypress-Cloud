@@ -1,7 +1,7 @@
 {
    "lambdatest_auth": {
-      "username": "<Your LambdaTest username>",
-      "access_key": "<Your LambdaTest access key>"
+      "username": "akumar35",
+      "access_key": "lO9FTrLzpca2FYrjcSaRwUt5ouzrXyPU8sSM7V7DRxP4Mm9aqP"
    },
    "browsers": [
       {
@@ -11,6 +11,7 @@
             "latest-1"
          ]
       },
+      
       {
          "browser": "Firefox",
          "platform": "Windows 10",
